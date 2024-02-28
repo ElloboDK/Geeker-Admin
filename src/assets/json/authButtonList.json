@@ -2,7 +2,8 @@
   "code": 200,
   "data": {
     "useProTable": ["add", "batchAdd", "export", "batchDelete", "status"],
-    "authButton": ["add", "edit", "delete", "import", "export"]
+    "authButton": ["add", "edit", "delete", "import", "export"],
+    "JobList": ["add", "export"]
   },
   "msg": "成功"
 }
