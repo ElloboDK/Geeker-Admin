@@ -63,7 +63,7 @@
               "component": "/dataquality/list/detail",
               "meta": {
                 "icon": "Menu",
-                "title": "ProTable 详情",
+                "title": "任务详情",
                 "activeMenu": "/dataquality/list",
                 "isLink": "",
                 "isHide": true,
